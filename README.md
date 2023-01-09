@@ -7,4 +7,4 @@ A full writeup of the project can be found in "writeup.pdf"
 
 Code for all the referenced models can be found in "model.ipynb"
 
-The data used in this project can be found in ""
+The data used in this project can be found in the "data" folder.
